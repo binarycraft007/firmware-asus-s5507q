@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: firmware-asus-s5507q
+Source: https://github.com/yourusername/firmware-asus-s5507q
+
+Files: *
+Copyright: 2025 binarycraft007 <keep.it.sns@gmail.com>
+License: Proprietary
+ This firmware is proprietary and provided by ASUS. Redistribution is subject to
+ the terms provided by the manufacturer.

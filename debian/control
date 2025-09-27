@@ -1,0 +1,15 @@
+Source: firmware-asus-s5507q
+Section: non-free/firmware
+Priority: optional
+Maintainer: binarycraft007 <keep.it.sns@gmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Homepage: https://github.com/binarycraft007/firmware-asus-s5507q
+
+Package: firmware-asus-s5507q
+Architecture: all
+Depends: ${misc:Depends}
+Description: Firmware for ASUS Vivobook S 15 (S5507Q) Qualcomm X1E80100
+ This package contains the necessary firmware files for the ASUS Vivobook S 15
+ (S5507Q) with Qualcomm X1E80100 chipset. These files are required for proper
+ functioning of various hardware components, including audio and sensors.
